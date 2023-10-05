@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+}
+.column{
+    flex: 33.33%;
+    padding: 40px;
+}
+.avatar{
+    width: 180px;
+}

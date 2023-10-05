@@ -1,0 +1,42 @@
+.footer-container{
+    background-color: #288e8a;
+}
+
+.Footer-div {
+    overflow: hidden;
+  }
+
+a{
+    text-decoration: none;
+    color:black;
+}
+  
+  .column {
+    float: left;
+    width: 28%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.logo img{
+    width:42px;
+    height:42px;
+}
+
+.bottom{
+    text-align: center;
+}
+
+.bottom1{
+    margin-top: 10px;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
